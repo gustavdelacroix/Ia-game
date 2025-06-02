@@ -1,0 +1,5 @@
+Este archivo fue creado localmente y subido mediante Git, usando add, commit y push.
+
+Autor: G
+Fecha: 27/05/2025
+Descripción: archivo de prueba para practicar el flujo de Git.
